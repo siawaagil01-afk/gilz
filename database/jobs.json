@@ -1,1 +1,17 @@
-{}
+{
+  "mtry5jkhmk71": {
+    "job_id": "mtry5jkhmk71",
+    "release_id": 384378896,
+    "release_tag": "build-mtry5jkhmk71",
+    "run_id": 34174296746,
+    "user_id": 1477055007,
+    "created_at": "2026-09-08T00:44:22.243Z",
+    "build_type": "release",
+    "only_analyze": "false",
+    "dev_name": "@gilzXx_Reals",
+    "project_name": "ZIP Upload",
+    "mode_label": "📦 Release Build",
+    "log_chat_id": null,
+    "log_msg_id": null
+  }
+}
